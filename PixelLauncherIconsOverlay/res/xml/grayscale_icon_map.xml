@@ -535,4 +535,6 @@
     <icon drawable="@drawable/themed_icon_bankofchina" package="com.bocmacau.com" />
     <icon drawable="@drawable/themed_icon_bankofchina" package="com.bochk.bn.aos" />
     <icon drawable="@drawable/themed_icon_bankofchina" package="com.chinamworld.bocmbci" />
+    <icon drawable="@drawable/themed_icon_oneplus_camera" package="com.oneplus.camera" />
+    <icon drawable="@drawable/themed_icon_oneplus_gallery" package="com.oneplus.gallery" />
 </icons>
